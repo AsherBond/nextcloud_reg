@@ -72,7 +72,7 @@ OC.L10N.register(
     "Please create your username following the scheme " : "Lütfen şu modele uygun olarak kullanıcı adınızı oluşturun",
     "Email (optional)" : "E-posta (isteğe bağlı)",
     "Email" : "E-posta",
-    "Continue" : "Sürdür",
+    "Continue" : "İlerle",
     "Request verification code" : "Doğrulama kodu gönder",
     "Request verification link" : "Doğrulama bağlantısı gönder",
     "Back to login" : "Oturum açmaya geri dön",
