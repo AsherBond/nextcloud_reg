@@ -23,6 +23,9 @@ This file is generated from multiple sources. Included packages:
 - @nextcloud/browser-storage
 	- version: 0.5.0
 	- license: GPL-3.0-or-later
+- @nextcloud/capabilities
+	- version: 1.2.1
+	- license: GPL-3.0-or-later
 - @nextcloud/event-bus
 	- version: 3.3.3
 	- license: GPL-3.0-or-later
@@ -45,16 +48,16 @@ This file is generated from multiple sources. Included packages:
 	- version: 6.0.7
 	- license: MIT
 - @vue/reactivity
-	- version: 3.5.40
+	- version: 3.5.41
 	- license: MIT
 - @vue/runtime-core
-	- version: 3.5.40
+	- version: 3.5.41
 	- license: MIT
 - @vue/runtime-dom
-	- version: 3.5.40
+	- version: 3.5.41
 	- license: MIT
 - @vue/shared
-	- version: 3.5.40
+	- version: 3.5.41
 	- license: MIT
 - axios
 	- version: 1.18.1
