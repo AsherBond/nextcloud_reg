@@ -1,9 +1,11 @@
 { "translations": {
     "Saved" : "Gespäichert",
+    "Registration" : "Registréierung",
     "Email" : "Email",
     "Continue" : "Weider",
     "Password" : "Passwuert",
     "Loading" : "Loading",
-    "Create account" : "Kont uleeën"
+    "Create account" : "Kont uleeën",
+    "Verify" : "Iwwerpréiwen"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
